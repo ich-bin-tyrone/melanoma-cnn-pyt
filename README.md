@@ -1,2 +1,2 @@
 # melanoma_mal-vs-ben
- CNN Melanoma Classifier
+ Melanoma Classifier using Convolutional Neural Networks
